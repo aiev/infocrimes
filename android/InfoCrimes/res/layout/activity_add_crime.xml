@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AddCrimeActivity" >
+
+    <ImageView
+        android:id="@+id/staticMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic1_navigation_refresh" />
+    
+    <Spinner
+        android:id="@+id/spinnerFactType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/staticMap"
+        android:entries="@array/list_item_loading" >
+		
+		<requestFocus />
+	</Spinner>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinnerFactType"
+        android:layout_below="@+id/spinnerFactType"
+        android:layout_marginTop="18dp"
+        android:text="Descrição"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_alignRight="@+id/spinnerFactType"
+        android:layout_below="@+id/textView1"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDesc"
+        android:layout_below="@+id/editDesc"
+        android:layout_marginTop="15dp"
+        android:text="Data/Hora"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDesc"
+        android:layout_below="@+id/textView2"
+        android:ems="10"
+        android:inputType="date|time" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDateTime"
+        android:layout_below="@+id/editDateTime"
+        android:layout_marginTop="14dp"
+        android:text="Endereço (opcional)"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/editAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editDateTime"
+        android:layout_alignRight="@+id/editDesc"
+        android:layout_below="@+id/textView3"
+        android:ems="10" >
+    </EditText>
+
+</RelativeLayout>

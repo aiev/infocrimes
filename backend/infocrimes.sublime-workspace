@@ -1,0 +1,1470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"pre_save  (variable)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"perso",
+				"personalize"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"per",
+				"personalize"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Per",
+				"Personalize"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"im",
+				"stopImmediatePropagation"
+			],
+			[
+				"menu",
+				"menuh"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"bole",
+				"boleto_proximo_pagamento"
+			],
+			[
+				"dad",
+				"dados_resposta"
+			],
+			[
+				"re",
+				"recalc"
+			],
+			[
+				"paypal_payme",
+				"paypal_payment_fee"
+			],
+			[
+				"ser",
+				"servico"
+			],
+			[
+				"selec",
+				"select_related"
+			],
+			[
+				"sat",
+				"status"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"perio",
+				"periodo_id"
+			],
+			[
+				"pa",
+				"payerid"
+			],
+			[
+				"pay",
+				"payment"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"arrow",
+				"arrow-control"
+			],
+			[
+				"clea",
+				"clearTimeout"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"get",
+				"get_host"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"effec",
+				"effectAs"
+			],
+			[
+				"effe",
+				"effectList"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"up",
+				"updateScroll"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"upa",
+				"updateScroll"
+			],
+			[
+				"mr",
+				"margin-bottom"
+			],
+			[
+				"ab",
+				"aba5ac"
+			],
+			[
+				"ifra",
+				"iframe"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"di",
+				"disableBrowse"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"repla",
+				"replaceWith"
+			],
+			[
+				"foto",
+				"foto_tamanho"
+			],
+			[
+				"photo",
+				"photos"
+			],
+			[
+				"zip",
+				"zipfile"
+			],
+			[
+				"gr",
+				"tooltipGravity"
+			],
+			[
+				"select",
+				"selecting"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"ui-sele",
+				"ui-selecting"
+			],
+			[
+				"de",
+				"defaultValue"
+			],
+			[
+				"max",
+				"maxLenght"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"s",
+				"siblings"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wrapp",
+				"wrapper-content"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"por",
+				"portfolioName"
+			],
+			[
+				"parent",
+				"parents"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pr",
+				"pre"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"content-",
+				"content-tree"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"start",
+				"startWrap"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"usr",
+				"user_pass2"
+			],
+			[
+				"user_p",
+				"user_pass"
+			],
+			[
+				"ati",
+				"ativo"
+			],
+			[
+				"ac",
+				"activation_code"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"config",
+				"config_id"
+			],
+			[
+				"regi",
+				"registrar"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"is",
+				"isTablet"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"bk",
+				"background-color"
+			],
+			[
+				"field",
+				"fieldValue"
+			],
+			[
+				"d",
+				"dsfasdfdsfasdfsadf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "infocrimes/settings.py",
+			"settings":
+			{
+				"buffer_size": 6577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "infocrimes/apps/occurrence/models.py",
+			"settings":
+			{
+				"buffer_size": 1936,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "infocrimes/apps/occurrence/views.py",
+			"settings":
+			{
+				"buffer_size": 2333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "infocrimes/apps/occurrence/serializers.py",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"packed",
+				"Package Control: Disable Package"
+			],
+			[
+				"selection",
+				"Rot13 Selection"
+			],
+			[
+				"sele",
+				"Rot13 Selection"
+			],
+			[
+				"selec",
+				"Rot13 Selection"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"iden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"contro",
+				"Package Control: Disable Package"
+			],
+			[
+				"contro ",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"open ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"find",
+				"Code Folding: Unfold All"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 205.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/core.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/middleware.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/urls.py",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/layouts/base.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/base.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/layouts/base.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/includes/site_ajustes.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/urls.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/settings.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/config/templatetags/config_helper.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/includes/plano.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/apps/site/templatetags/site_helper.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/config/templatetags/__init__.py",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/register.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/config/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/pages/slideshow.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/pages/portfolio.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/portfolio/slideshow.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/portfolio/detalhe.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/pages/home.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/config/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/apps/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/apps/portfolio/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/settings.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/ajustes.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/promover.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/seu_site.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/includes/menu.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/adicionar_plano.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/gerenciar_plano.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/menu/planoconta.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/sua_conta.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/conteudo/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/context_processors.py",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/sitemap.xml",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/primeiro_acesso.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/first-access.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/style.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/content.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/plano_options.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/menu/site.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/portfolio/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/utils/decorators.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/portfolio/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/adicionar_plano.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/personalizacao/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/conteudo/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/planoconta/includes/site_ajustes.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/includes/menu.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/gerenciar_plano.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/sua_conta.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/conteudo/bio_contato.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/portfolio/detalhe.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/conteudo/home.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/libs/jquery.ui.theme.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/libs/jquery.ui.selectmenu.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/old/menu.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/personalizacao/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/personalize_old.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/config.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/config.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/personalize.css",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/css/core.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/config/__init__.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/old/includes/menu_navegacao.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/personalize.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/personalize-wizard.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/wizard.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/contato/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/portfolio/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/portfolio/index.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/libs/jquery.lazyload.min.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/databases.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/middleware.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/conteudo/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/contato/models.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/plupload.full.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/plupload.full.min.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/add-plan.js",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/home/plans.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/personalize-wizard.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/aparencia.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/portfolio.html",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/apps/home/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/config/includes/site_promover.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/core.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/css/icons/types.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/portfolio-detail.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/home.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/bio-contact.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/content.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/first-access.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/portfolio/detalhe_options.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/css/pages/personalize-first-access.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/home.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/personalizacao/primeiro_acesso.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/jquery.tinyscrollbar.min.js",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/static/css/pages/plans.css",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/home/get_inspired.html",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/urls.py",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/layouts/base.html",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/templates/default/home/find.html",
+		"/home/tiago/Dropbox/Startup/46graus/Admin/Suporte/Sprite-Planos.jpg",
+		"/home/tiago/Projects/local.landingpage.46graus/landingpage/static/css/pages/plans.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/css/pages/portfolio-detalhe.css",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/css/pages/portfolio.css",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/boleto/views.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/exif.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/boletos/bancoitau.html",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/libs/flare/jquery.pixelentity.flare.lightbox.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/libs/flare/all.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/templates/default/404.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/boleto/util.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/boletos/bancodobrasil.html",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/jquery.menu-editinplace.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/pages/portfolio-options.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/boleto/itau.py",
+		"/home/tiago/Projects/local.landingpage.46graus/utils/python-boletos-master/boletos/tests/test_itau.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/apps/boleto/bb.py",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/static/js/libs/jquery.confirm.js",
+		"/home/tiago/Projects/local.landingpage.46graus/sites/static/js/pages/contato.js",
+		"/home/tiago/Projects/local.landingpage.46graus/adm/templates/default/boletos/caixaeconomica.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/tiago/Projects/local.landingpage.46graus/",
+			"/home/tiago/Projects/local.landingpage.46graus/adm",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.js",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.py",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.js,*.html",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.py,*.html",
+			"/home/tiago/Projects/local.landingpage.46graus/sites;*.html",
+			"/home/tiago/Projects/local.landingpage.46graus/sites,*.py,*.html",
+			"/home/tiago/Projects/local.landingpage.46graus/sites",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.py",
+			"/home/tiago/Projects/local.landingpage.46graus/adm,*.js",
+			"/home/tiago/Projects/local.landingpage.46graus/adm",
+			"/home/tiago/Projects/local.landingpage.46graus/administrator",
+			"/home/tiago/Projects/local.landingpage.46graus",
+			"/home/tiago/Projects/local.landingpage.46graus/sites",
+			"/home/tiago/Projects/local.landingpage.46graus/administrator"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"is_pro",
+			"pay",
+			"isPro",
+			"is_pro",
+			"plano",
+			"serv",
+			"render_to",
+			"print",
+			"esq",
+			"ui-selectmenu-item-focus",
+			"hover",
+			"logo",
+			"backgro",
+			"logo",
+			"#logo-container",
+			"new-logo",
+			"new-icon",
+			"initUploader",
+			"logo",
+			"log",
+			"load",
+			"discovery_image_path",
+			"print",
+			"reverse",
+			"dumps",
+			"notify",
+			"trans",
+			"wizard",
+			"	font-size: 13px;",
+			"ContentScroll",
+			"scroll",
+			"shadow",
+			"SITE_REMOTE_STATIC_ROOT",
+			"icon",
+			"contato_vimeo_http",
+			"contato_flickr_http",
+			"contato_500px_http",
+			"plupload.Uploader",
+			"upload",
+			"callback",
+			"data-default-sr",
+			"data-type",
+			"datata-type",
+			" ata-type",
+			"data-type",
+			"flare",
+			"initScrollPagination",
+			"portfolio_galeria_proporcao_imagem",
+			"ratio",
+			"ration",
+			"galeria_proporcao_imagem",
+			"PersonalizeWizard",
+			"theme",
+			"fields",
+			"PROMO",
+			"datetime.datetime(2013, 6, 1)",
+			"transi",
+			"trans",
+			"transi",
+			"();\n",
+			"op-thumb-scrollbar-background",
+			".op-thumb-scrollbar-background",
+			"start",
+			"sDirection",
+			"left",
+			"n",
+			"left",
+			"scroll",
+			"scrollbar-thumb-inner",
+			"scrollbar-background",
+			"csrf",
+			"%}\n",
+			"firstAccess",
+			"first",
+			"oo",
+			"perfil",
+			"multiple",
+			"runtime",
+			"max_file",
+			"max_file_count",
+			"multi_selection",
+			"mode",
+			"modo",
+			"wrap",
+			"mode",
+			"initup",
+			"crop",
+			"160",
+			"propor",
+			"prop",
+			"portfolio_galeria_proporcao_horizontal_imagem",
+			"touchAmountX",
+			"jwin",
+			"jwin.scrollLeft(0);",
+			"touchHandler",
+			"touc",
+			"touchHandler",
+			"mobile",
+			"build()",
+			"process",
+			"signal",
+			"process",
+			"process\nprocess",
+			"process\nproces",
+			"process\nprocess(",
+			"process\nprocess()",
+			"process\nprocess(",
+			"process\n",
+			"scrollle",
+			"scroll",
+			"click(",
+			"click()",
+			"click",
+			"peFlareLightbox",
+			"add",
+			"peFlareLightbox",
+			"recalc",
+			"initLayout",
+			".init",
+			".iniy",
+			"MenuEdit",
+			"MenuEdit.init",
+			"cpf /",
+			"cobregratis",
+			"endere",
+			"valor",
+			"sacado",
+			"Sacado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#icon-container",
+			"new-icon",
+			"",
+			"deg",
+			"{{ STATIC_URL }}img/boletos/",
+			"{{ STATIC_URL }}",
+			"z-index: 99999999",
+			"silverlight_xap_url : Base.oldStaticUrl",
+			"flash_swf_url : Base.oldStaticUrl",
+			"/static/img/effects-preview-square.jpg",
+			"",
+			"UploadSettings.imageExtensions",
+			"img/email/",
+			"src=\"",
+			"src=\"http://www.46graus.com{{ STATIC_URL }}img/",
+			"adm.",
+			"administrator."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "infocrimes/settings.py",
+					"settings":
+					{
+						"buffer_size": 6577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4394,
+								4394
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "infocrimes/apps/occurrence/models.py",
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1936,
+								1936
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "infocrimes/apps/occurrence/views.py",
+					"settings":
+					{
+						"buffer_size": 2333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1636,
+								1636
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "infocrimes/apps/occurrence/serializers.py",
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true
+}

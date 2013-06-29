@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/action_my_loclas"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_my_loclas"
+        android:icon="@drawable/ic3_rating_important" />
+
+    <item
+        android:id="@+id/action_add_crime"
+        android:orderInCategory="11"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_add_crime"
+        android:icon="@drawable/ic5_content_new" />
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="9"
+        android:showAsAction="ifRoom"
+		android:actionViewClass="android.widget.SearchView"
+        android:title="@string/action_search"
+        android:icon="@drawable/ic2_action_search" />
+    
+    <item
+        android:id="@+id/action_loader"
+        android:orderInCategory="12"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_loader"
+        android:icon="@drawable/ic1_navigation_refresh" />
+    
+</menu>

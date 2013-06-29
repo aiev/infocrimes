@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/btn_map_crimes"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:text="Mapa de crimes" />
+
+    <Button
+        android:id="@+id/btn_data_statistical"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Dados estatísticos" />
+
+</LinearLayout>

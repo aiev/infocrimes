@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InfoCrimes</string>
+    <string name="title_crime_detail">Detalhe do crime</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Config.</string>
+    <string name="action_add_crime">Ad. Crime</string>
+    <string name="action_my_loclas">Meus locais</string>
+    <string name="action_search">Busca</string>
+    <string name="action_loader">Atualizar</string>
+    <string name="action_save">Salvar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_map_crime">Mapa de Crimes</string>
+    <string name="title_activity_start">InfoCrimes</string>
+    <string name="title_section_map">Mapa</string>
+    <string name="title_section_my_locals">Meus Locais</string>
+    <string name="title_local_list">Locals</string>
+    <string name="title_local_detail">Detalhes do local</string>
+    <string name="title_activity_add_crime">Adicionar Crime</string>
+    <string name="title_activity_my_locals">Meus Locais</string>
+    <string name="title_section1">Local 1</string>
+    <string name="title_section2">Local 2</string>
+    <string name="title_section3">Local 3</string>
+
+</resources>

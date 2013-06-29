@@ -1,0 +1,7 @@
+Django==1.4
+South==0.8.1
+psycopg2==2.4.5
+django-test-utils==0.3
+
+djangorestframework
+django-admin-bootstrapped
